@@ -8,7 +8,6 @@ from .vector_store import search
 
 # Paste your Gemini API key directly here (overrides any system env vars)
 
-GEMINI_API_KEY = "AQ.Ab8RN6ILHKo1L1dvrWFCtJgaGpd-s3NQrTJY3uxvuFtrAHM6vw"
 
 # ✅ Separate names for each client
 gemini_client = genai.Client(api_key=GEMINI_API_KEY)
