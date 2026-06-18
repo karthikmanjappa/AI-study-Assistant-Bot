@@ -1,0 +1,9 @@
+Django
+openai
+langchain
+faiss-cpu
+PyPDF2
+sentence-transformers
+numpy
+pandas
+python-dotenv

@@ -1,0 +1,8 @@
+serviceAccountKey.json
+*.pem
+*.key
+myenv/
+__pycache__/myenv/ 
+__pycache__/ 
+.env 
+*.json
